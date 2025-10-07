@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="GulistanNews.in" tvg-logo="https://i.imgur.com/q5z6ycZ.png" group-title="News",Gulistan News (720p)
+https://live.gulistannews.in/hls/gul.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (720p)
 https://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p) [Not 24/7]
@@ -385,8 +387,6 @@ https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
 https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
 #EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare (1080p)
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="GulistanNews.in" tvg-logo="https://i.imgur.com/q5z6ycZ.png" group-title="News",Gulistan News (720p)
-https://live.gulistannews.in/hls/gul.m3u8
 #EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-logo="https://i.imgur.com/YJQhlpq.png" group-title="Education",Gyandarshan (720p)
 https://cdn-6.pishow.tv/live/14/master.m3u8
 #EXTINF:-1 tvg-id="HamdardTV.ca" tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="News",Hamdard TV (1080p)
