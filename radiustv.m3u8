@@ -75,6 +75,14 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnnnews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/640px-CNN.svg.png" group-title="News",CNN
 https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1115px-Deutsche_Welle_Logo.svg.png" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="globalnews.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Global_News_%282022%29.svg/500px-Global_News_%282022%29.svg.png" group-title="News",GLOBAL News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png",T Sports 
+http://147.93.154.65/Bein3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Asia_Cup_Logo.png", Willow
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports",Star Sports 1 Hindi HD 
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi
@@ -87,6 +95,8 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 http://116.90.120.149:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk@SD" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies",B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
@@ -133,9 +143,21 @@ http://116.90.120.149:8000/play/a0bx/index.m3u8
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@SD" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagious", Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagious", Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="TehzeebTV.in@SD" tvg-logo="https://i.imgur.com/PCVOdup.png" group-title="Religious",Tehzeeb TV
 https://cdn-4.pishow.tv/live/239/master.m3u8
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="Religious",Mercy TV
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV18 HD
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/330px-Love_Nature_logo_%282025%29.svg.png" group-title="News",Love Nature
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Live",Animal Planet US East
+https://tvpass.org/live/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Live",Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Live",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
